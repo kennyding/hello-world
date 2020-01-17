@@ -9,3 +9,5 @@ add line4
 add line5
 add line8
 add line9
+add line6
+add line7
